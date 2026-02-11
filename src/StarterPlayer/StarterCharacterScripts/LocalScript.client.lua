@@ -1,0 +1,1 @@
+script.Parent:WaitForChild("HumanoidRootPart"):WaitForChild("Running").Volume = 0

@@ -4,6 +4,7 @@
 - Visits: 39.4M 
 - Daily Active Users: 150K 
 - Peak Concurrent Users: 5.4K
+- Peak Daily Active Users: 500K
 - Release Date: 04/20/2025
 
 ### Info

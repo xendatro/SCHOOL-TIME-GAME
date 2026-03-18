@@ -1,8 +1,8 @@
 # SCHOOL TIME 
 [Play the game here!](https://www.roblox.com/games/78163591327317/SCHOOL-TIME)
-### Stats (As of Feb. 2026)
-- Visits: 39.4M 
-- Daily Active Users: 150K 
+### Stats (As of Mar. 2026)
+- Plays: 45M+ 
+- Daily Active Users: 55K 
 - Peak Concurrent Users: 5.4K
 - Peak Daily Active Users: 500K
 - Release Date: 04/20/2025

@@ -15,5 +15,5 @@ Please visit the Services folders in ReplicatedStorage and ServerStorage to see 
 
 Open sources used:
 - [loleris's ProfileService](https://madstudioroblox.github.io/ProfileService/) - Data saving wrapper
-- [Sleitnick's CamerShake Module](https://github.com/Sleitnick/RbxCameraShaker) - Camera shake effect when enemy is chasing
+- [Sleitnick's CameraShake Module](https://github.com/Sleitnick/RbxCameraShaker) - Camera shake effect when enemy is chasing
 - [Inventory System from DevForum] - The original poster has since removed this module from the forum. This is a wrapper around Roblox's backpack system
